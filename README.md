@@ -28,5 +28,4 @@
 3. Wait a second and the browser will open
 
 ## Demo
-<p>Please visit [this link][demo]</p>
-[demo]: https://google.com
+<p>Please visit https://denominations-accounting.herokuapp.com/</p>
